@@ -16,6 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BusinessHouseName\BusinessHouseGame.csproj" />
+    <ProjectReference Include="..\BusinessHouseGame\BusinessHouseGame.csproj" />
   </ItemGroup>
 </Project>
